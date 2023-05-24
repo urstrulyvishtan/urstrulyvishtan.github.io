@@ -1,7 +1,7 @@
 ---
-date: '2019-12-12'
+date: '2022-04'
 title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+github: 'https://github.com/urstrulyvishtan/Face_mask_detection'
 external: ''
 tech:
   - Python
