@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-This cutting-edge Named Entity Recognition (NER) project employs advanced models, including Transformer and BERT, achieving a remarkable 95% accuracy. Its versatile applications, user-friendly features, and continuous commitment to improvement make it a valuable asset in revolutionizing information extraction in diverse domains."
+This cutting-edge Named Entity Recognition (NER) project employs advanced models, including Transformer and BERT, achieving a remarkable 95% accuracy. Its versatile applications, user-friendly features, and continuous commitment to improvement make it a valuable asset in revolutionizing information extraction in diverse domains.
