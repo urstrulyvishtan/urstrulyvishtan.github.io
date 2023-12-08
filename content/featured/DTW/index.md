@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Dynamic Time Warping integration with Deep learning using Multivariate Financial Time series'
-cover: 'stw.png'
+cover: 'final.png'
 github: 'https://github.com/urstrulyvishtan/DTW_Integration_DL'
 tech:
   - LSTM

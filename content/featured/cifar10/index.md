@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '5'
 title: 'CIFAR 10'
 cover: 'bot.jpg'
 external: 'https://www.kaggle.com/code/sibivishtan/cifar10'
