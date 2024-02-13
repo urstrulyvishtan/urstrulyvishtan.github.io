@@ -1,5 +1,5 @@
 ---
-date: '2021-04'
+date:
 title: 'Traffic Clearance for Ambulance'
 github: ''
 external: 'https://medium.com/@sibi.vishtan/traffic-clearance-for-ambulance-5cf5e3e66562'
