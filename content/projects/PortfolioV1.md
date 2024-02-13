@@ -1,5 +1,5 @@
 ---
-date: '2021-01'
+date:
 title: 'Portfolio Website v1'
 github: 'https://github.com/urstrulyvishtan/v4-main'
 external: ''
