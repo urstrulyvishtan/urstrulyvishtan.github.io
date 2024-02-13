@@ -1,5 +1,5 @@
 ---
-date: '2022-03'
+date:
 title: 'BellaBeat Fitness'
 github: 'https://github.com/urstrulyvishtan/BellaBeat_CaseStudy'
 external: ''
