@@ -1,5 +1,5 @@
 ---
-date: '2022-03'
+date:
 title: 'Chicago Cyclist Bike-Share Analysis'
 github: 'https://github.com/urstrulyvishtan/BikeShare_CaseStudy'
 external: ''
