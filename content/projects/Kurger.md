@@ -1,5 +1,5 @@
 ---
-date: '2020-05'
+date:
 title: 'Kurger'
 github: 'https://github.com/urstrulyvishtan/kurger'
 external: ''
