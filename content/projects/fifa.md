@@ -1,5 +1,5 @@
 ---
-date: '2023-02'
+date:
 title: 'FIFA World Cup Qatar 2022'
 github: ''
 external: 'https://www.kaggle.com/code/sibivishtan/fifa-world-cup-qatar-2022'
