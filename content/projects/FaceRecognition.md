@@ -1,5 +1,5 @@
 ---
-date: '2022-04'
+date:
 title: 'Face Recognition in Python'
 github: 'https://github.com/urstrulyvishtan/Face_mask_detection'
 external: ''
