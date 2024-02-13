@@ -1,5 +1,5 @@
 ---
-date: '2023-01'
+date:
 title: 'Bird CLEF Sounds'
 github: ''
 external: 'https://www.kaggle.com/code/sibivishtan/birdclef-call-soundscape'
