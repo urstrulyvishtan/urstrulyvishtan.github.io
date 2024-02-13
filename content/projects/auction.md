@@ -1,5 +1,5 @@
 ---
-date: '2021-12'
+date:
 title: 'Auction Solidity'
 github: 'https://github.com/urstrulyvishtan/auctionEth'
 external: 'https://medium.com/coinsbench/chinese-auction-based-on-solidity-a170aabdf2f7'
