@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishtan.me/sitemap-index.xml
+Host: https://vishtan.me
