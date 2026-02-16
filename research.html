@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Research" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@iam_vishtan" />
+    <meta name="canonical" href="https://github.com/urstrulyvishtan" />
+    <title>Research</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+
+  <body>
+    <div id="maincontent" style="margin-top: 70px">
+      <h2>Research:</h2>
+
+      <p>
+        <i>
+          Research is where I turn curiosity into code and questions into solutions.
+        </i>
+      </p>
+
+      <h3>C3 AI - Enterprise AI: Operations Research with Baker Hughes</h3>
+      
+      <h4>Inventory Optimization System</h4>
+      <p>
+        Developed a system for multi-location inventory management. The system addresses the complex challenge of maintaining optimal inventory levels across Baker Hughes facilities while minimizing costs and ensuring high part availability.
+      </p>
+      <p>
+        <b>Key Research Contributions:</b>
+      </p>
+      <ul>
+        <li>
+          <b>Synthetic Data Generation:</b> Created sophisticated synthetic data generation pipelines to augment sparse real-world inventory data. Developed generative models that capture temporal patterns, seasonal variations, and demand uncertainty across multiple product categories and locations. This synthetic data enabled robust model training and validation, particularly for rare but critical parts with limited historical data.
+        </li>
+        <li>
+          <b>Multi-Agent Reinforcement Learning:</b> Designed a distributed RL framework where each facility operates as an agent in a partially observable environment. The system uses actor-critic methods with shared value functions to learn coordinated inventory policies that balance local optimization with global supply chain efficiency.
+        </li>
+        <li>
+          <b>Demand Forecasting Integration:</b> Integrated probabilistic demand forecasting models with RL decision-making, enabling the system to account for forecast uncertainty in inventory decisions. This hybrid approach improved robustness to demand volatility.
+        </li>
+        <li>
+          <b>Deployment Impact:</b> Deployed across Baker Hughes facilities, the system reduced excess inventory costs by millions annually while maintaining 99% part availability, demonstrating the practical value of combining RL with operations research.
+        </li>
+      </ul>
+
+      <h4>Sourcing Optimization System</h4>
+      <p>
+        Built a procurement optimization system using constraint programming to balance cost and lead times across 200+ suppliers. The system addresses the multi-objective optimization challenge of supplier allocation in complex supply chains.
+      </p>
+      <p>
+        <b>Key Research Contributions:</b>
+      </p>
+      <ul>
+        <li>
+          <b>Graph Neural Networks for Supplier Networks:</b> Developed GNN-based models to capture complex relationships and dependencies in supplier networks. The graph structure encodes supplier capabilities, historical performance, geographic constraints, and risk factors, enabling more informed sourcing decisions.
+        </li>
+        <li>
+          <b>Constraint Programming Framework:</b> Implemented a hybrid optimization approach combining constraint programming with machine learning. The CP solver handles hard constraints (quality requirements, delivery windows, capacity limits) while ML models predict supplier performance and cost dynamics.
+        </li>
+        <li>
+          <b>Synthetic Supplier Data:</b> Generated synthetic supplier performance data to model various scenarios including supplier disruptions, cost fluctuations, and quality variations. This synthetic data enabled stress testing of optimization strategies and robust policy development.
+        </li>
+        <li>
+          <b>Multi-Objective Optimization:</b> Designed Pareto-optimal solutions that balance multiple objectives: minimizing total cost, reducing lead times, maintaining quality standards, and managing supply chain risk. The system identifies trade-offs and provides decision-makers with multiple solution options.
+        </li>
+        <li>
+          <b>Deployment Impact:</b> Deployed in Baker Hughes supply chain, identifying millions in annual savings through better supplier allocation while reducing stockouts by 35%.
+        </li>
+      </ul>
+
+      <h4>Air Products Supplier Sourcing</h4>
+      <p>
+        Extended the constraint optimization framework to handle Air Products' supplier network, scaling to XXX+ suppliers and XXk+ SKUs. The system uses graph neural networks to model supplier networks and relationships, identifying 15% cost savings opportunities while meeting delivery and quality requirements.
+      </p>
+
+      <h3>Northeastern University - Research Computing: Graduate Research</h3>
+      
+      <h4>Time Series Alignment with Deep Learning</h4>
+      <p>
+        Developed a Dynamic Time Warping (DTW) alignment system integrated with graph neural networks and deep learning for multivariate time series analysis. This research addresses the fundamental challenge of aligning and comparing time series data that may have different temporal scales, phase shifts, or local variations.
+      </p>
+      <p>
+        <b>Key Research Contributions:</b>
+      </p>
+      <ul>
+        <li>
+          <b>Deep DTW Architecture:</b> Designed neural network architectures that learn optimal alignment paths for time series data, moving beyond traditional DTW algorithms that rely on fixed distance metrics. The learned alignments capture semantic similarities that standard DTW misses.
+        </li>
+        <li>
+          <b>Graph Neural Network Integration:</b> Incorporated GNNs to model relationships between different time series variables, enabling the system to leverage cross-variable dependencies for more accurate alignment. This is particularly valuable for multivariate financial and sensor data where variables are interdependent.
+        </li>
+        <li>
+          <b>Financial Data Applications:</b> Applied the system to financial time series data, improving pattern matching accuracy from 61% to 78%. The enhanced alignment enables better detection of similar market patterns, regime changes, and anomaly detection in trading strategies.
+        </li>
+        <li>
+          <b>End-to-End Learning:</b> Developed differentiable DTW variants that enable end-to-end training, allowing the alignment mechanism to be optimized jointly with downstream tasks like classification or forecasting.
+        </li>
+      </ul>
+
+      <h4>Advanced NLP Course Development</h4>
+      <p>
+        Created and taught Advanced Natural Language Processing coursework for PhD students, covering transformer architectures, attention mechanisms, and large language model fine-tuning techniques. The course emphasized hands-on implementation and cutting-edge research, preparing students for both academic research and industry applications.
+      </p>
+
+    </div>
+  </body>
+</html>
